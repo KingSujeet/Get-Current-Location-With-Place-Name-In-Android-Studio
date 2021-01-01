@@ -1,5 +1,4 @@
 # Get Current Location With Place Name In Android Studio
-<h4>Below is main code to get current location with place name.</h4>
 
 <h3>✔ <b>Dependencies</b> --</h3>
 <p>
@@ -11,6 +10,7 @@
 }
 </p>
 
+<h4>Below is main code to get current location with place name.</h4>
 
     LocationManager locationManager;
     String provider;
