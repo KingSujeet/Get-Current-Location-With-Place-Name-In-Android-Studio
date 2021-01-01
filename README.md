@@ -1,7 +1,6 @@
 # Get Current Location With Place Name In Android Studio
-
-<img src="https://github.com/KingSujeet/PDF_Reader_Lite/blob/master/WhatsApp%20Image%202020-07-14%20at%202.33.09%20PM.jpeg" width="250">
 <br><br>
+<img src="https://github.com/KingSujeet/Get-Current-Location-With-Place-Name-In-Android-Studio/blob/master/WhatsApp%20Image%202021-01-01%20at%2012.28.53%20PM.jpeg" width="250">
 
 <h3>✔ <b>Dependencies</b> --</h3>
 <p>
