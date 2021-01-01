@@ -1,6 +1,16 @@
 # Get Current Location With Place Name In Android Studio
 <h4>Below is main code to get current location with place name.</h4>
 
+<h3>✔ <b>Dependencies</b> --</h3>
+<p>
+    dependencies {<br><br>
+  
+    implementation 'com.google.android.gms:play-services-location:17.1.0'
+    
+      ----//------
+}
+</p>
+
 
     LocationManager locationManager;
     String provider;
