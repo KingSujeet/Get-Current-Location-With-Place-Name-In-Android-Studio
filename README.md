@@ -1,5 +1,5 @@
-# Get-Current-Location-With-Place-Name-In-Android-Studio
-<h1>Below is main code to get current location with place name.</h1>
+# Get Current Location With Place Name In Android Studio
+<h4>Below is main code to get current location with place name.</h4>
 
 
 LocationManager locationManager;
