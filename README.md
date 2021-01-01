@@ -2,7 +2,7 @@
 <h4>Below is main code to get current location with place name.</h4>
 
 
-LocationManager locationManager;
+    LocationManager locationManager;
     String provider;
     TextView txt_location;
 
