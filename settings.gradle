@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Get Current Location With Place Name"
