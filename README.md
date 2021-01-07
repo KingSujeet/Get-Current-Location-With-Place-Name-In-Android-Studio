@@ -12,7 +12,7 @@
 }
 </p>
 
-<h4>Below is main code to get current location with place name.</h4>
+<h4>Below is the main code to get current location with place name.</h4>
 
     LocationManager locationManager;
     String provider;
